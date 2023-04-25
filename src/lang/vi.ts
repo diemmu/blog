@@ -48,7 +48,7 @@ const vi = {
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "Xin chào, Mình là Cường Mạnh",
       description:
         "Mình hiện tại đang là một Marketing Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
       image: "/assets/images/orion-nebula.jpg",
